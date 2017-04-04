@@ -14,4 +14,4 @@ Then download 352*288 videos from http://www.inventa.com.au/videoclips.htm or an
 Then execute the SecretImageWriter file.
 
 
-After the successful execution, execute the mainFuntion.
+After the successful execution, execute the mainFunction.
